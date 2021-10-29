@@ -1,0 +1,8 @@
+e <utt>
+l 60000train.txt.lex.ambi.05
+k 60000train.txt.known.ddfaa
+u 60000train.txt.unknown.ssddFchnaa
+p ddfaa
+P ssddFchnaa
+O +vS -FColumns K: -a IGTREE +D U: -a IB1 
+L 60000train.txt.top100

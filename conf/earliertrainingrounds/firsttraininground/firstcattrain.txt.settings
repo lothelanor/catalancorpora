@@ -1,0 +1,8 @@
+e <utt>
+l firstcattrain.txt.lex.ambi.05
+k firstcattrain.txt.known.ddfa
+u firstcattrain.txt.unknown.dFapsss
+p ddfa
+P dFapsss
+O +vS -FColumns K: -a IGTREE +D U: -a IB1 
+L firstcattrain.txt.top100
