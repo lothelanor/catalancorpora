@@ -93,4 +93,4 @@ For the next stage of development of the HisCat that is projected to come out in
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ## Acknowledgements
-Research that partially facilitated the creation of this code was funded by the British Academy (PDF grant pf170063) and the Cambridge Humanities Research Grant (Tier 2 Grant, GASR011522).
+Research that partially facilitated the creation of this code was funded by the British Academy (PDF grant pf170063) and the Cambridge Humanities Research Grant (Tier 1 Grant, GANT011262).
